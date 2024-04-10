@@ -1,6 +1,6 @@
-{
-  "input_data": {
-    "data": [
+ {
+   "Inputs": { 
+     "data": [
        {
          "day": 1,
          "mnth": 1,   
@@ -15,6 +15,7 @@
          "hum": 0.3,
          "windspeed": 0.3 
        }
-     ]
-  }
-}
+     ]    
+   },   
+   "GlobalParameters": 1.0
+ }
