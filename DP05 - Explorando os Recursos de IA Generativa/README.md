@@ -2,7 +2,7 @@
     <a href="https://www.dio.me/">
      <img align="center" width="60px" src="https://hermes.dio.me/lab_projects/badges/c1203540-e5d4-40d1-a1e8-a7e0387d8abe.png"></a>
     <span> 
-Explorando os Recursos de IA Generativa com o o Microsoft Copilot no Microsoft Edge
+Explorando os Recursos de IA Generativa com o Microsoft Copilot no Microsoft Edge
 </span>
 </h1>
 
