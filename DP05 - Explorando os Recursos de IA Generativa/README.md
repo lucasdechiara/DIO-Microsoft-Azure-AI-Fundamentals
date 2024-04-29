@@ -23,8 +23,9 @@ Será explorado algumas das maneiras pelas quais o Microsoft Copilot pode usar I
 
 2.4. Use o ícone do Copilot na barra de ferramentas do Edge para abrir o painel do Copilot, conforme mostrado aqui:
 
-imagem 1
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/07.gif" width=""/> ... 
+<img align="right" src="https://github.com/lucasdechiara/DIO-Microsoft-Azure-AI-Fundamentals/blob/main/imagens/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa%20com%20o%20o%20Microsoft%20Copilot/01.png" width=""/> 
+
+... 
 
 2.5. No painel Copilot, role para baixo para ver todo o conteúdo conforme necessário e certifique-se de que a guia Bate-papo esteja selecionada e que o estilo de conversa esteja definido como **Mais Balanceado** - isso garantirá que o Copilot responda com um equilíbrio entre criatividade e precisão factual.
 
@@ -36,8 +37,9 @@ imagem 1
 ```
 Revise a resposta do Copilot, que deve resumir os principais pontos do documento, conforme mostrado aqui:
 
-imagem 2
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/07.gif" width=""/> ... 
+<img align="right" src="https://github.com/lucasdechiara/DIO-Microsoft-Azure-AI-Fundamentals/blob/main/imagens/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa%20com%20o%20o%20Microsoft%20Copilot/02.png" width=""/> 
+
+... 
 
 Digite o seguinte prompt:
 ```
@@ -68,8 +70,9 @@ Agora que você fez algumas pesquisas iniciais, peça ao Copilot para ajudá-lo 
 ```
 3.4. Revise a resposta e, na saída, use o ícone Copiar (🗍) para copiá-la para a área de transferência. Em seguida, selecione todo o texto no documento Business Ideas.docx e cole o texto copiado no documento para substituí-lo. Por fim, arrume o texto colado substituindo o texto inicial da resposta (em que o Copilot reconheceu a instrução) por um título para o nome da sua empresa de limpeza. Você deve acabar com um documento de plano de negócios semelhante a este:
 
-imagem 3
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/07.gif" width=""/> ... 
+<img align="right" src="https://github.com/lucasdechiara/DIO-Microsoft-Azure-AI-Fundamentals/blob/main/imagens/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa%20com%20o%20o%20Microsoft%20Copilot/03.png" width=""/> 
+
+... 
 
 3.5. No painel Copilot, insira o seguinte prompt:
 ```
@@ -81,8 +84,9 @@ imagem 3
 
 3.8. Clique com o botão direito no design do logotipo de sua preferência e copie-o para a área de transferência. Em seguida, cole-o no topo do documento do plano de negócios, assim:
 
-imagem 4
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/07.gif" width=""/> ... 
+<img align="right" src="https://github.com/lucasdechiara/DIO-Microsoft-Azure-AI-Fundamentals/blob/main/imagens/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa%20com%20o%20o%20Microsoft%20Copilot/04.png" width=""/> 
+
+... 
 
 ### 4. Usando o Copilot para criar conteúdo para uma apresentação
 
@@ -116,11 +120,13 @@ Se o painel Designer abrir automaticamente, feche-o.
 4.10 Aplique qualquer reformatação adicional que achar necessária até obter um slide semelhante a este:
 
 imagem 5
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/07.gif" width=""/> ... 
+<img align="right" src="https://github.com/lucasdechiara/DIO-Microsoft-Azure-AI-Fundamentals/blob/main/imagens/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa%20com%20o%20o%20Microsoft%20Copilot/05.png" width=""/> 
+
+... 
 
 4.11. Na barra de título do PowerPoint, selecione o nome padrão da apresentação ( Apresentação ) e renomeie-o para Business Presentation.pptx.
 
 4.12. Feche a guia PowerPoint e retorne à pasta Documentos no OneDrive.
 
-### Considerações finais
+### Considerações finais:
 Neste exercício foi explorado como o Microsoft Copilot no Microsoft Edge pode utilizar Inteligência Artificial Generativa para auxilia-lo a ser mais produtivo em criar novos conteúdos. Foi verificado como a ferramenta pode auxiliar a analisar pontos-chave, explorar novas ideias e produzir conteúdos (textos, imagens e apresentações), proporcioando ganho de tempo e aumento da produtividade. 
